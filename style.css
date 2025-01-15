@@ -1,0 +1,15 @@
+
+body { 
+    background-color: green;
+    color: lightbrown; } 
+    button { 
+        background-color: lightbrown;
+        color: green;
+        border: 1px solid green;
+        padding: 10px 20px; 
+        cursor: pointer; }
+
+    button:hover { 
+        background-color: green;
+        color: lightbrown; 
+        border: 1px solid lightbrown; }
