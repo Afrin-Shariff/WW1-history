@@ -1,15 +1,15 @@
 
 body { 
-    background-color: #849c86;
-    color: lightbrown; } 
+    background-color: rgb(235, 235, 235);
+    color: #335236; } 
     button { 
-        background-color: lightbrown;
-        color: #849c86;
-        border: 1px solid #849c86;
+        background-color: #181238;
+        color: rgb(235, 235, 235);
+        border: 1px solid #181238;;
         padding: 10px 20px; 
         cursor: pointer; }
 
     button:hover { 
-        background-color: #849c86;
+        background-color: rgb(235, 235, 235);
         color: lightbrown; 
         border: 1px solid lightbrown; }
