@@ -1,17 +1,17 @@
 
 body { 
-    background-color: rgb(235, 235, 235);
-    color: #335236;
+    background-color: #a9fddf
+    color: rgb(14, 54, 26);
     text-align: center;}
     
     button { 
         background-color: #181238;
-        color: rgb(235, 235, 235);
+        color: rgb(222, 248, 177);
         border: 1px solid #181238;;
         padding: 10px 20px; 
         cursor: pointer; }
 
     button:hover { 
-        background-color: rgb(235, 235, 235);
+        background-color: #4880db;
         color: lightbrown; 
         border: 1px solid lightbrown; }
