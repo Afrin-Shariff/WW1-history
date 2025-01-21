@@ -1,7 +1,9 @@
 
 body { 
     background-color: rgb(235, 235, 235);
-    color: #335236; } 
+    color: #335236;
+    text-align: center;}
+    
     button { 
         background-color: #181238;
         color: rgb(235, 235, 235);
